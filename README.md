@@ -41,7 +41,7 @@ Foi criado um relatório no Power BI com as seguintes visualizações:
 - Média de renda anual por segmento
 - Média de Idade por Segmento
 - Número de Clientes por Segmento
-
+  ![](dash.png)
 ### Conclusões/Recomendações
 
 Este projeto de segmentação de clientes utilizando técnicas de clusterização ofereceu insights valiosos para a equipe de marketing. Identificamos grupos distintos de clientes com base em seus perfis demográficos e comportamentais, destacando o cluster 2 como um segmento de alto potencial de gastos. O relatório criado no Power BI proporcionou uma visualização clara das métricas chave de cada segmento, facilitando a tomada de decisões. Em suma, este projeto demonstra a importância da segmentação de clientes para estratégias de marketing mais direcionadas e eficaze
